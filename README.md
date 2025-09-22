@@ -19,7 +19,7 @@
 
 ## 貳、操作說明
 **一、安裝程式方式：** 
-請從GitHub下載aodv.py檔案，具體操作步驟如下所示：
+請從GitHub下載scp.py檔案，具體操作步驟如下所示：
 1. 請確認您的電腦已正確安裝Python、Pygame及Numpy套件，以確保程式能順利執行。
 2. 請開啟終端機，切換至scp.py所在的資料夾，並執行以下指令：
 ```bash
@@ -27,7 +27,7 @@ python scp.py
 ```
 
 **二、運行結果：**
-執行aodv.py後，畫面將呈現出類似以下的模擬結果。
+執行scp.py後，畫面將呈現出類似以下的模擬結果。
 <br>
   <div align="center">
   	<img src="./截圖.png" alt="Editor" width="500">
